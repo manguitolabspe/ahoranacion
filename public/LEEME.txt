@@ -1,0 +1,4 @@
+# Carpeta para activos estáticos
+Sube aquí tus imágenes:
+- hero-candidate.jpg
+- bio-candidate.jpg
